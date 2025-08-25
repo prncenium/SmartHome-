@@ -1,12 +1,73 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+My project is on, Home Automation, Where one can easily control all it's home appliances just via help of web app.
 
-Currently, two official plugins are available:
+## Project Type
+ Fullstack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deplolyed App
+Frontend: https://deployed-site.whatever
+Backend: React+vite
+Database: Google FireBase
 
-## Expanding the ESLint configuration
+## Directory Structure
+my-app/
+├─ backend/
+├─ frontend/
+│  ├─ ...
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Video Walkthrough of the project
+https://drive.google.com/file/d/1o8rMIW69lhY5RegkiPUZRs-zmnnn7MnK/view?usp=drive_link
+
+## Video Walkthrough of the codebase
+(https://drive.google.com/file/d/1o8rMIW69lhY5RegkiPUZRs-zmnnn7MnK/view?usp=drive_link)
+
+## Features
+List out the key features of your application.
+
+- Register a New Room
+- Register a New Device
+- Control via webApp
+
+## design decisions or assumptions
+List your design desissions & assumptions
+
+## Installation & Getting started
+Detailed instructions on how to install, configure, and get the project running. For BE/FS projects, guide the reviewer how to check mongodb schema etc.
+
+```bash
+npm install my-project
+cd my-project
+npm run dev
+```
+
+## Usage
+Provide instructions and examples on how to use your project.
+
+```bash
+# Example
+```
+
+Include screenshots as necessary.
+
+## Credentials
+Prince1@gmail.com
+123456789
+
+## APIs Used
+If your application relies on external APIs, document them and include any necessary links or references.
+
+## API Endpoints
+In case of Backend Applications provide a list of your API endpoints, methods, brief descriptions, and examples of request/response.
+GET /api/items - retrieve all items
+POST /api/items - create a new item
+
+
+## Technology Stack
+List and provide a brief overview of the technologies used in the project.
+
+- Node.js
+- Express.js
+- Google Firebase
+- React+Vite
